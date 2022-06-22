@@ -1,6 +1,6 @@
 # ToDo Fiesta
 
-![Thumbnail](./doc/thumb.jpg)
+![image](https://user-images.githubusercontent.com/83095574/175034967-61821c4a-1c58-4132-833d-6c947c46f140.png)
 
 ## Tutorial
 
